@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VIPGallery</string>
+    <string name="image_thumb">Image Thumb</string>
+    <string name="image_detail">Image Detail</string>
+</resources>

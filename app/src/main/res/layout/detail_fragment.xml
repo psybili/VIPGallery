@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="image"
+            type="codingtask.ebay.vipgallery.data.model.Image" />
+    </data>
+
+    <ImageView
+        android:id="@+id/detailImageView"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:contentDescription="@string/image_detail"
+        android:scaleType="center" />
+</layout>
